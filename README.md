@@ -7,9 +7,7 @@ Spring + SpringMVC + Mybaitis
 
 IntelliJ IDEA + Maven
 
-![image-20200727200740016](/Users/jayleonc/Library/Application Support/typora-user-images/image-20200727200740016.png)
-
-
+![maven](src/main/resources/maven.png)
 #### 安装教程
 
 1.  在数据库中执行注目下的imdb.sql。（导入数据库和表以及一些数据）

@@ -7,7 +7,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="79d1a6c8-faaa-4a75-b460-6bb4bdf13c03" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -113,12 +112,14 @@
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/sql" />
+      <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp" />
+      <recent name="D:\Study\Work\imdb\src\main\webapp\images" />
+    </key>
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="com.marchsoft.service.impl" />
-    </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.marchsoft.service.impl" />
-      <recent name="com.marchsoft.websocket" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/webapp/images" />
@@ -131,10 +132,9 @@
       <recent name="com.marchsoft.controller" />
       <recent name="com.marchsoft.listener" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/sql" />
-      <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp" />
-      <recent name="D:\Study\Work\imdb\src\main\webapp\images" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.marchsoft.service.impl" />
+      <recent name="com.marchsoft.websocket" />
     </key>
   </component>
   <component name="RunManager" selected="Tomcat Server.Tomcat 9.0.34">
@@ -322,7 +322,7 @@
       <workItem from="1595815617812" duration="4913000" />
       <workItem from="1595844783695" duration="2214000" />
       <workItem from="1595921385704" duration="55000" />
-      <workItem from="1603610314973" duration="936000" />
+      <workItem from="1603610314973" duration="1244000" />
     </task>
     <servers />
   </component>
