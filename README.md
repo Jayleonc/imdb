@@ -37,3 +37,4 @@ private final String img_path = "/Users/jayleonc/imdb/imdb/src/main/webapp/image
 #### 使用说明
 
 1.  导入idea，部署maven依赖，配置好tomcat服务器即可运行。
+2.  需直接导入src的上一级目录（imdb）
