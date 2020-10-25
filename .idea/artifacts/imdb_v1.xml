@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="imdb-v1">
+    <output-path>$PROJECT_DIR$/out/artifacts/imdb_v1</output-path>
+    <root id="archive" name="imdb_war.war">
+      <element id="artifact" artifact-name="imdb:war exploded" />
+      <element id="dir-copy" path="D:/Software/apache-tomcat-8.5.43/webapps/imdb_war" />
+    </root>
+  </artifact>
+</component>
